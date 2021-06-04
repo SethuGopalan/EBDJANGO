@@ -17,7 +17,7 @@ SECRET_KEY = '3i0j_*91*3z5co5weglj=ni^ww&0=ck%v5phr(fnr5rsb4ou)_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mywesiteapp-env.eba-amwm77zy.us-east-1.elasticbeanstalk.com' '127.0.0.1']
+ALLOWED_HOSTS = ['mywesiteapp-env.eba-amwm77zy.us-east-1.elasticbeanstalk.com' ,'127.0.0.1']
 
 
 # Application definition
